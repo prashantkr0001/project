@@ -1,0 +1,18 @@
+Job Title: Senior Software Engineer
+
+We are looking for a Senior Software Engineer with 5+ years of experience in building scalable applications. The ideal candidate should have strong expertise in Python, JavaScript, and cloud platforms like AWS or Azure.
+
+Requirements:
+- 5+ years of software development experience
+- Proficiency in Python, JavaScript, and SQL
+- Experience with React or Angular frontend frameworks
+- Strong knowledge of Docker and Kubernetes
+- Experience with microservices architecture and REST APIs
+- Familiarity with CI/CD pipelines and Git
+- Excellent communication and leadership skills
+- B.Tech or higher in Computer Science or related field
+
+Nice to have:
+- Experience with TensorFlow or PyTorch
+- Knowledge of GraphQL
+- Experience with MongoDB or PostgreSQL
